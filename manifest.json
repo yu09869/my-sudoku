@@ -1,0 +1,14 @@
+{
+  "name": "极简数独",
+  "short_name": "数独",
+  "description": "一个极简风格的数独小游戏，支持候选笔记、每日挑战、成就与本机排行榜。",
+  "start_url": "./sudoku.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAFAF9",
+  "theme_color": "#0A6CFF",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
